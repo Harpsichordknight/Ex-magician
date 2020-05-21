@@ -1,41 +1,17 @@
-## Welcome to GitHub Pages
+# Tech-God
 
-You can use the [editor on GitHub](https://github.com/Harpsichordknight/Ex-magician/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yes, I know you will find this hard to believe, but I actually am a tech-god. I set up this page all by myself, and even linked it to my domain. Look at that web address! All through the power of searching stuff online like an idiot, and extensive trial and error (mostly error). Next stop, curing cancer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Theme
 
-### Markdown
+Did you notice I'm using a theme? And it doesn't look utterly terrible. The learning curve to set-up a slightly nicer one seems a bit vertical though. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am writing in markdown apparently. *Look italics*. **Look, bold.**  
 
-```markdown
-Syntax highlighted code block
+Learning how to type the hash symbol on this keyboard might make life easier for some of this.
 
-# Header 1
-## Header 2
-### Header 3
+![Yes I managed to add an image. Yes I'm a genius](https://images.unsplash.com/photo-1573486095983-f95bf05c3ac2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1251&q=80)
 
-- Bulleted
-- List
+Seems adding uploading my own image would be massively more 麻烦 though。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Harpsichordknight/Ex-magician/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-**Testing** 1 2 3 _testing_ well well, this seems realatively easy to use I guess. 
-# So is this the right heading? 
+Next stop, trying to have more than one page on this site. 
