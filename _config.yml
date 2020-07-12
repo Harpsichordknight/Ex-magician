@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome to Harpischord Knight's homepage!
 description: Feel free to bookmark this page if you are interested in my writing
-github: is_project_page: false
+github:
+  is_project_page: false
